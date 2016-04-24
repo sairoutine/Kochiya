@@ -3,15 +3,13 @@
 [![Build Status by Travis CI](https://travis-ci.org/sairoutine/Kochiya.svg?branch=master)](https://travis-ci.org/sairoutine/Kochiya)
 [![The MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-[http://honokak.osaka/](http://honokak.osaka/)
-
 [![Kochiya](http://sairoutine.github.io/Kochiya/assets/img/sample.png)](http://sairoutine.github.io/Kochiya/)
 
 "Kochiya"は"[Honoka](https://github.com/windyakin/Honoka)"を元にした日本語も美しく表示できるBootstrapテーマです。
 
 ## About "Kochiya"
 
-通常の[Bootstrap](http://getbootstrap.com/)では，日本語のフォント指定や文字サイズは最適とはいえません。"Honoka"はそんなBootstrapをベースに，日本語表示に適したフォント指定や，文字サイズに関するコードを追記したBootstrapテーマの一つです。
+通常の[Bootstrap](http://getbootstrap.com/)では，日本語のフォント指定や文字サイズは最適とはいえません。"Kochiya"はそんなBootstrapをベースに，日本語表示に適したフォント指定や，文字サイズに関するコードを追記したBootstrapテーマの一つです。
 
 ## Live Demo
 
@@ -23,7 +21,7 @@
 
 ### Download
 
-[Relases](https://github.com/sairoutine/Kochiya/releases)から最新版をダウンロードしてください。
+[Releases](https://github.com/sairoutine/Kochiya/releases)から最新版をダウンロードしてください。
 
 ### Bower
 
@@ -33,7 +31,7 @@
 bower install --save-dev Kochiya#(version)
 ```
 
-``(version)``にはバージョン番号を指定します(ex. ``Kochiya#1.0.1``)。Kochiyaの最新バージョン番号は[Relases](https://github.com/sairoutine/Kochiya/releases)から確認してください。
+``(version)``にはバージョン番号を指定します(ex. ``Kochiya#1.0.1``)。Kochiyaの最新バージョン番号は[Releases](https://github.com/sairoutine/Kochiya/releases)から確認してください。
 
 ## Usage
 
