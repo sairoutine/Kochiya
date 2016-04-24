@@ -225,7 +225,7 @@ section.section {
   padding: 100px 0;
 }
 section.section.section-default {
-  background-color: #f9f9f9;
+  background-color: #fff;
 }
 section.section.section-inverse {
   background-color: #fff5eb;
@@ -251,16 +251,16 @@ section.section .subtitle h2 {
   border-radius: 100%;
 }
 .point .point-box .point-circle.start {
-  background-color: #4caf50;
+  background-color: #43ac6a;
 }
 .point .point-box .point-circle.replace {
-  background-color: #ff9800;
+  background-color: #e99002;
 }
 .point .point-box .point-circle.compass {
-  background-color: #2196f3;
+  background-color: #008cba;
 }
 .point .point-box .point-circle.japanese {
-  background-color: #f44336;
+  background-color: #f04124;
 }
 .point .point-box .point-circle.japanese span.icon-jp:before {
   font-weight: bold;
