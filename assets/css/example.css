@@ -188,11 +188,13 @@ body {
 }
 .jumbotron.special .honoka {
   position: absolute;
-  bottom: -20px;
-  left: 0;
-  width: 400px;
-  height: 530px;
+  right: 20px;
+  bottom: -50px;
+  width: 411px;
+  height: 590px;
+  background-image: url("../img/kochiya.png");
   background-repeat: no-repeat;
+  opacity: 0.3;
 }
 .jumbotron.special .outline {
   margin-top: 180px;
