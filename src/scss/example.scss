@@ -81,12 +81,13 @@ body {
 	background-size: 70%;
 	.honoka {
 		position: absolute;
-		bottom: -20px;
-		left: 0;
-		width: 400px;
-		height: 530px;
-		//background-image: url("../img/honoka.png");
+		right: 20px;
+		bottom: -50px;
+		width: 411px;
+		height: 590px;
+		background-image: url("../img/kochiya.png");
 		background-repeat: no-repeat;
+		opacity: 0.3;
 	}
 	.outline {
 		margin-top: 180px;
