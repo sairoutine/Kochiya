@@ -1,4 +1,4 @@
-# Honoka
+# Kochiya
 
 [![Build Status by Travis CI](https://travis-ci.org/sairoutine/Kochiya.svg?branch=master)](https://travis-ci.org/sairoutine/Kochiya)
 [![The MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
